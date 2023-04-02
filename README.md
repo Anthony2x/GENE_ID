@@ -458,21 +458,7 @@
             console.log(len)
 
         }
-// genetic programming
-    // create a list and store all the protein in it----
-    // get the random protein in the list and run it---
-    // create a list or range of numbers---
-    // get a random number in the list and run it---
-    // combine the protein and the random number together and run it---
 
-    //create a random number from 0-5 to determine how many proteins will be in the list
-    // create a list that accept the random protein and run it
-    //create a list that accept the random number for the linked proteins and run it
-    // make sure that the number list and protein list are connected
-    // limit the random protein list with the created random number from 0-5 and run it
-    //limit the random number list with the created random number from 0-5 and run it
-    //display the connections
-    
 
 
             
